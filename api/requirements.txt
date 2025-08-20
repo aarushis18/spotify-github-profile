@@ -7,3 +7,17 @@ Pillow==9.0.1
 colorgram.py==1.2.0
 markupsafe==2.0.1
 gunicorn==22.0.0
+
+# HTTP stack (stable + compatible)
+requests==2.31.0
+urllib3==1.26.18
+six==1.16.0
+charset-normalizer==3.3.2
+idna==3.7
+certifi==2024.7.4
+
+# Google + Firebase (with the requests extra)
+google-auth[requests]==2.35.0
+google-cloud-core==2.4.1
+google-cloud-firestore==2.17.0
+firebase-admin==6.4.0

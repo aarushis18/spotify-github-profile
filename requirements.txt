@@ -1,0 +1,10 @@
+# HTTP
+requests==2.31.0
+urllib3==1.26.16
+six==1.16.0
+
+# Firebase / Google
+firebase-admin==6.4.0
+google-cloud-firestore==2.17.0
+google-auth==2.35.0
+google-cloud-core==2.4.1
